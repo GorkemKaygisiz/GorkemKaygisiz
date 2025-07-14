@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GorkemKaygisiz
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C# and SQL
+- 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me: gorkemkaygisiz6@gmail.com
 
 <!---
